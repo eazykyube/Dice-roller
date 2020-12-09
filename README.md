@@ -1,4 +1,4 @@
-# Dice-roller
+# Dice roller
 
 This is a simple app that rolls a six sided die. It was implemented within the Developing Android Apps with Kotlin on Udacity, the code is based on this repository:
 
