@@ -4,6 +4,6 @@ This is a simple app that rolls a six sided die. It was implemented within the D
 
 > https://github.com/udacity/andfun-kotlin-dice-roller/tree/Step.01-Exercise-Adding-the-button
 
-## Screenshots
+## Screenshot
 
-![Image](https://drive.google.com/file/d/16IaxvEADYqiAaO21CVeXtdKTq88mQkYg/view?usp=sharing)
+![](https://drive.google.com/uc?export=view&id=16IaxvEADYqiAaO21CVeXtdKTq88mQkYg)
